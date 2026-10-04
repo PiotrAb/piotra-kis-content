@@ -1,0 +1,11 @@
+{
+  "slug": "FRONTEND",
+  "title": "Współczesny front-end aplikacji internetowych - HTML, CSS i JavaScript",
+  "subtitle": "laboratorium, semestr zimowy 2022/23",
+  "menuLabel": "Nowoczesny frontend",
+  "menuGroup": "pspizk",
+  "menuIcon": "fa-brands fa-js",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" }
+  ]
+}

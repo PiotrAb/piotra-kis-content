@@ -1,0 +1,44 @@
+[
+  { "label": "Strona główna", "icon": "home", "to": "/" },
+  { "label": "Plan zajęć", "icon": "calendar_month", "to": "/plan" },
+  {
+    "label": "Dydaktyka - zima",
+    "icon": "co_present",
+    "items": [
+      { "label": "OPSS1 LAB+WYK", "icon": "html", "to": "/dydaktyka/OPSS1" },
+      { "label": "SOPER WYK", "icon": "terminal", "to": "/dydaktyka/SOPER" },
+      { "label": "PUM LAB", "icon": "smartphone", "to": "/dydaktyka/PUM" },
+      { "label": "NOFRAP LAB", "icon": "monitor", "to": "/dydaktyka/NOFRAP" }
+    ]
+  },
+  {
+    "label": "Dydaktyka - lato",
+    "icon": "co_present",
+    "items": [
+      { "label": "OPSS2 WYK+LAB", "icon": "javascript", "to": "/dydaktyka/OPSS2" },
+      { "label": "AppJS LAB", "icon": "laptop_mac", "to": "/dydaktyka/APPJS" },
+      { "label": "PROSERW WYK+LAB", "icon": "dns", "to": "/dydaktyka/PROSERW" }
+    ]
+  },
+  {
+    "label": "Dydaktyka - ARCH",
+    "icon": "archive",
+    "items": [
+      { "label": "ASD LAB", "icon": "account_tree", "to": "/dydaktyka/ASD" },
+      { "label": "Java LAB", "icon": "coffee", "to": "/dydaktyka/JAVA" },
+      { "label": "WDDM LAB", "icon": "show_chart", "to": "/dydaktyka/WDDM" },
+      { "label": "WinAdmin LAB", "icon": "desktop_windows", "to": null, "disabled": true }
+    ]
+  },
+  {
+    "label": "PSPiZK",
+    "icon": "school",
+    "items": [
+      { "label": "Nowoczesny frontend", "icon": "javascript", "to": "/dydaktyka/FRONTEND" },
+      { "label": "Technologie Frontendowe", "icon": "code", "to": null, "disabled": true }
+    ]
+  },
+  { "label": "Nauka", "icon": "science", "to": null, "disabled": true },
+  { "label": "Curriculum Vitae", "icon": "badge", "to": null, "disabled": true },
+  { "label": "Kontakt", "icon": "mail", "to": "/kontakt" }
+]

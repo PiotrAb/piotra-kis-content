@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    "APPJS",
+    "ASD",
+    "JAVA",
+    "NOFRAP",
+    "OPSS1",
+    "OPSS2",
+    "PROSERW",
+    "PUM",
+    "SOPER",
+    "WDDM",
+    "FRONTEND"
+  ],
+  "pages": [
+    "kontakt",
+    "plan"
+  ],
+  "news": [
+    "2026-09-23-nowa-strona",
+    "2026-09-20-przyklad-wpisu"
+  ]
+}

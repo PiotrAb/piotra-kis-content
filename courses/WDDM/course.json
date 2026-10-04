@@ -1,0 +1,13 @@
+{
+  "slug": "WDDM",
+  "title": "Wstęp do data mining",
+  "subtitle": "laboratorium, semestr letni 2023/24",
+  "menuLabel": "WDDM LAB",
+  "menuGroup": "arch",
+  "menuIcon": "fa-solid fa-chart-line",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "materialy", "label": "Materiały do zajęć" },
+    { "slug": "kurs", "label": "Kurs on-line" }
+  ]
+}

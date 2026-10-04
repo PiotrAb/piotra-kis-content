@@ -1,0 +1,14 @@
+{
+  "slug": "OPSS2",
+  "title": "Opracowywanie serwisów sieciowych cz. 2",
+  "subtitle": "wykład + laboratorium, semestr zimowy 2025/26",
+  "menuLabel": "OPSS2 WYK+LAB",
+  "menuGroup": "lato",
+  "menuIcon": "fa-brands fa-js",
+  "tabs": [
+    { "slug": "index", "label": "Wykład" },
+    { "slug": "laboratoria", "label": "Laboratorium" },
+    { "slug": "zadania", "label": "Zadania" },
+    { "slug": "tutoriale", "label": "Tutoriale" }
+  ]
+}

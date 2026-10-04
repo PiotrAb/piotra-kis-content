@@ -1,0 +1,12 @@
+{
+  "slug": "APPJS",
+  "title": "Multiplatformowe aplikacje w języku JavaScript",
+  "subtitle": "laboratoria, semestr letni 2024/25",
+  "menuLabel": "AppJS LAB",
+  "menuGroup": "lato",
+  "menuIcon": "fa-solid fa-laptop-code",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "materialy", "label": "Materiały" }
+  ]
+}

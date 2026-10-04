@@ -1,0 +1,11 @@
+{
+  "slug": "SOPER",
+  "title": "Systemy Operacyjne",
+  "subtitle": "wykład, semestr zimowy 2025/26",
+  "menuLabel": "SOPER WYK",
+  "menuGroup": "zima",
+  "menuIcon": "fa-brands fa-linux",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" }
+  ]
+}

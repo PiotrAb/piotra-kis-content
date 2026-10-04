@@ -1,0 +1,12 @@
+{
+  "slug": "ASD",
+  "title": "Algorytmy i Struktury Danych",
+  "subtitle": "laboratorium, semestr zimowy 2022/23",
+  "menuLabel": "ASD LAB",
+  "menuGroup": "arch",
+  "menuIcon": "fa-solid fa-sitemap",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "materialy", "label": "Materiały do zajęć" }
+  ]
+}

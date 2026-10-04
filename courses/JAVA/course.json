@@ -1,0 +1,13 @@
+{
+  "slug": "JAVA",
+  "title": "Kurs komputerowy Java",
+  "subtitle": "laboratorium, semestr letni 2021/22",
+  "menuLabel": "Java LAB",
+  "menuGroup": "arch",
+  "menuIcon": "fa-brands fa-java",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "materialy", "label": "Materiały do zajęć" },
+    { "slug": "kurs", "label": "Kurs on-line" }
+  ]
+}

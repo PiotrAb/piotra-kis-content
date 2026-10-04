@@ -1,0 +1,14 @@
+{
+  "slug": "OPSS1",
+  "title": "Opracowywanie serwisów sieciowych cz. 1",
+  "subtitle": "wykład + laboratorium, semestr zimowy 2025/26",
+  "menuLabel": "OPSS1 LAB+WYK",
+  "menuGroup": "zima",
+  "menuIcon": "fab fa-html5",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "wyklad", "label": "Wykład" },
+    { "slug": "html", "label": "Kurs HTML" },
+    { "slug": "css", "label": "Kurs CSS" }
+  ]
+}

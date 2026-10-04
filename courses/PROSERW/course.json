@@ -1,0 +1,13 @@
+{
+  "slug": "PROSERW",
+  "title": "Programowanie Serwisów Web",
+  "subtitle": "semestr letni 2024/25",
+  "menuLabel": "PROSERW WYK+LAB",
+  "menuGroup": "lato",
+  "menuIcon": "fa-solid fa-server",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "laboratoria", "label": "Laboratoria" },
+    { "slug": "dokumentacja", "label": "Dokumentacja" }
+  ]
+}

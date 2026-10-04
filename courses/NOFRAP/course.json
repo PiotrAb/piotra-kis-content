@@ -1,0 +1,13 @@
+{
+  "slug": "NOFRAP",
+  "title": "Nowoczesny frontend aplikacji internetowych",
+  "subtitle": "kurs komputerowy, semestr zimowy 2024/25",
+  "menuLabel": "NOFRAP LAB",
+  "menuGroup": "zima",
+  "menuIcon": "fa-solid fa-display",
+  "tabs": [
+    { "slug": "index", "label": "Ogólne informacje" },
+    { "slug": "zadania", "label": "Zadania" },
+    { "slug": "projekt", "label": "Projekt" }
+  ]
+}
