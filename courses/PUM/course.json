@@ -1,13 +1,12 @@
 {
   "slug": "PUM",
   "title": "Programowanie urządzeń mobilnych",
-  "subtitle": "laboratorium, semestr zimowy 2025/26",
+  "subtitle": "laboratorium, semestr zimowy 2026/27",
   "menuLabel": "PUM LAB",
   "menuGroup": "zima",
   "menuIcon": "fa-solid fa-mobile-screen-button",
   "tabs": [
     { "slug": "index", "label": "Ogólne informacje" },
-    { "slug": "flutter", "label": "Flutter" },
     { "slug": "react-native", "label": "React Native" }
   ]
 }

@@ -19,6 +19,9 @@ Uwaga! Dostęp tylko dla Studentów przypisanych do odpowiednich grup zajęciowy
 
 ### Materiały do zajęć
 
+Slajdy:
 <div class="badges">
-<badge icon="pi pi-file-pdf" color="red" href="/files/OPSS2/OPSS2_26.pdf">OPSS2 WYKŁAD</badge>
+<badge icon="pi pi-file-pdf" color="red" href="/files/OPSS1/OPSS1.pdf">OPSS1 WYKŁAD</badge>
+<badge icon="pi pi-file-pdf" color="red" href="/files/PUM/PUM_LAB.pdf">PUM LAB - notatki</badge>
+<badge icon="pi pi-file-pdf" color="red" href="/files/NOFRAPP/NOFRAPP.pdf">NOFRAPP LAB - notatki</badge>
 </div>
