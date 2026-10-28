@@ -8,7 +8,7 @@ Każdy ze Studentów zapisany na zajęcia w systemie USOS otrzymał link do serw
 
 Dodatkowo, każda z osób, które dopisały się w GitHub Classroom, ma dostęp do repozytorium z materiałami do zajęć:
 
-[![Static Badge](https://img.shields.io/badge/GitHub_AppJS_25L-black?logo=GitHub&style=flat&labelColor=black&color=white)](https://github.com/IS-UMK/APPJS_25L_zajecia_PiotrA)
+<badge icon="pi pi-github" color="black" href="https://github.com/IS-UMK/APPJS_25L_zajecia_PiotrA">GitHub AppJS 25L</badge>
 
 Brak dostępu do repozytorium proszę zgłaszać mailowo, weryfikując najpierw, czy użytkownik ma swoje prywatne repo do kursu. W treści wiadomości proszę załączyć nazwę użytkownika w serwisie GitHub.
 

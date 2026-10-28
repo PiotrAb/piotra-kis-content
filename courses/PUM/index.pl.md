@@ -8,10 +8,10 @@ Materiały do zajęć są na bieżąco aktualizowane i dostosowywane do tematyki
 
 <!-- Do niektórych z zajęć przygotowywanych jest klika slajdów prezentacji, które mają być krótkim wprowadzeniem do tematyki zajęć oraz objaśniają teoretyczne aspekty podejmowanego tematu. Większość zajęć to typowe laboratoria hands-on-keyboard.
 
-[![Static Badge](https://img.shields.io/badge/PUM_Prezentacja-red?logo=adobeacrobatreader&style=flat&labelColor=red&color=white)](/files/PUM/PUM24Z.pdf)
+<badge icon="pi pi-file-pdf" color="red" href="/files/PUM/PUM24Z.pdf">PUM Prezentacja</badge>
 
 
-Zadania do zajęć: [![Static Badge](https://img.shields.io/badge/PUM_Prezentacja-red?logo=adobeacrobatreader&style=flat&labelColor=red&color=white)](/files/PUM/PUM24z-zadania.pdf) -->
+Zadania do zajęć: <badge icon="pi pi-file-pdf" color="red" href="/files/PUM/PUM24z-zadania.pdf">PUM Prezentacja</badge> -->
 
 
 ## Tematyka zajęć

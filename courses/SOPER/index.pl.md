@@ -8,7 +8,7 @@ Wykład przeznaczony jest dla Studentów II roku Informatyki Stosowanej s1. -->
 
 <!-- [Aktualizacja: 03.02.26 r.]
 
-Prezentacja z wykładu: [![Static Badge](https://img.shields.io/badge/SOPER_Prezentacja-red?logo=adobeacrobatreader&style=flat&labelColor=red&color=white)](/files/SOPER/SOPER_25.pdf) 
+Prezentacja z wykładu: <badge icon="pi pi-file-pdf" color="red" href="/files/SOPER/SOPER_25.pdf">SOPER Prezentacja</badge> 
 
 
 Materiały do pierwszej części wykładu (październik - listopad): [Strona dr. Marka Grochowskiego](https://fizyka.umk.pl/~grochu/wiki/lib/exe/fetch.php?media=zajecia:so_2025_2:so.pdft) -->

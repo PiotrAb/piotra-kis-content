@@ -12,7 +12,7 @@ Wykład podzielony jest na dwie części - połowa semestru dotyczy technologii 
 
 Studenci zapisani na kurs w systemie USOS, którzy dopisali się do grupy w serwisie GitHub Classroom mają dostęp do repozytorium GitHub z materiałami do zajęć:
 
-[![Static Badge](https://img.shields.io/badge/GitHub_PROSERW_25L-black?logo=GitHub&style=flat&labelColor=black&color=white)](https://github.com/IS-UMK/PROSERW_25L_zajecia_PiotrA)
+<badge icon="pi pi-github" color="black" href="https://github.com/IS-UMK/PROSERW_25L_zajecia_PiotrA">GitHub PROSERW 25L</badge>
 
 ## Egzamin
 

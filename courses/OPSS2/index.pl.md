@@ -24,6 +24,6 @@ _UWAGA!_ Slajdy są aktualizowane po wykładzie i kończą się na slajdzie, na 
 
 TBA
 
-<!-- [![Static Badge](https://img.shields.io/badge/OPSS2_Prezentacja-red?logo=adobeacrobatreader&style=flat&labelColor=red&color=white)](/files/OPSS2/OPSS2-WYK.pdf) -->
+<!-- <badge icon="pi pi-file-pdf" color="red" href="/files/OPSS2/OPSS2-WYK.pdf">OPSS2 Prezentacja</badge> -->
 
 Ostatnia aktualizacja: 02.03.2026r.

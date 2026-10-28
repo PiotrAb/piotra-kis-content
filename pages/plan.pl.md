@@ -1,5 +1,8 @@
 ## Zajęcia - semestr zimowy 2026/27 [26Z]
 
+**Poniedziałek**
+- **14:00 - 16:00**: konsultacje dla Studentów - B.2.04
+
 **Wtorek**
 
 - **8:00 - 10:00**: wykład _Opracowywanie serwisów sieciowych cz. 1_ - C.1.10 (SA COK)  - do końca listopada
@@ -18,7 +21,7 @@
 
 ## Konsultacje
 
-**KONKRETNY TERMIN KONSULTACJI ZOSTANIE USTALONY W PIERWSZYCH TYGODNIACH ROKU AKADEMICKIEGO**
+W semestrze zimowym roku akademickiego 2026/27 zaplanowane godziny konsultacji to **poniedziałek, 14:00 - 16:00** - w tym czasie jestem w gabinecie B.2.04.
 
 Dodatkowo - można umawiać się w innych terminach, zarówno na konsultacje na miejscu jak i on-line przez platformę M$ Teams oraz Discord. W tym celu proszę o kontakt mailowy lub przez komunikator M$ Teams lub Discord.
 
@@ -30,4 +33,4 @@ Jestem dostępny pod mailem i na platformach M$ Teams i Discord praktycznie 24h/
 
 ## CNT
 
-Dostępny mogę być również w laboratorium w Centrum Nauk Technicznych - p. 1.08A
+Dostępny mogę być również w laboratorium w Centrum Nauk Technicznych - p. 1.08A (hala techniczna) lub w p. 1.20 (laboratorium interakcji człowiek-komputer).
