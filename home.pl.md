@@ -23,5 +23,5 @@ Slajdy:
 <div class="badges">
 <badge icon="pi pi-file-pdf" color="red" href="/files/OPSS1/OPSS1.pdf">OPSS1 WYKŁAD</badge>
 <badge icon="pi pi-file-pdf" color="red" href="/files/PUM/PUM_LAB.pdf">PUM LAB - notatki</badge>
-<badge icon="pi pi-file-pdf" color="red" href="/files/NOFRAPP/NOFRAPP.pdf">NOFRAPP LAB - notatki</badge>
+<badge icon="pi pi-file-pdf" color="red" href="/files/NOFRAP/NOFRAPP.pdf">NOFRAPP LAB - notatki</badge>
 </div>
